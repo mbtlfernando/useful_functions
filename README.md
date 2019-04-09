@@ -24,14 +24,15 @@ dict_data = {
     }
 
 ## s3_utils.py
-Reading and writing from Amazon ( AWS ) S3 buckets
+Reading from and writing to Amazon ( AWS ) S3 buckets
 
+Reads and writes a pandas data frame in json or csv formats
 
-Reads and writes a pandas data frame as json or csv
+Reads and writes a python dictionary in json format
 
-Reads and writes a python dictionary as json 
+Reads and writes a text in s3 
 
-Reads and writes a text to s3 path
+Reads and writes a picke in s3. 
 
 Lists file in a s3 path
 
