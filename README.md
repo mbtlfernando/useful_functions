@@ -5,6 +5,8 @@ Contains plotly graphs, short cuts to access to AWS S3 buckets and simple date-t
 ## plotly_graphs.py
 Draws a multi line graph given a numerical pandas data frame. Index is the x axis. Columns are taken as lines. 
 
+Contains simple functions to draws two data frames as subplots or overlays with two y axes. Just pass pandas data frame to the function.
+
 Draws a graph from a dictionary with the following format.
 
 dict_data = {
