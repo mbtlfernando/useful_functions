@@ -1,4 +1,4 @@
-# useful_functions
+# Useful Functions
 Can be used across different projects.
 Contains plotly graphs, short cuts to access to AWS S3 buckets and simple date-time functions.
 
