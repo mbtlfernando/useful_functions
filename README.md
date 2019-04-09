@@ -24,7 +24,7 @@ Lists file in a s3 path
 
 ## general_utils.py
 Takes dates in string format, does simple date additions and substrations and returns text dates.
-'%Y-%m-%d'  format : example: 2019-01-25
+'%Y-%m-%d'  format : example: 2019-01-25 
 
 
 
