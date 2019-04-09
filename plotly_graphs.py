@@ -1,3 +1,6 @@
+"""
+Make sure to create '../../plotly/' directory to save plotly html files. You can change the path as you need.
+"""
 import time
 import plotly
 import plotly.graph_objs as go
